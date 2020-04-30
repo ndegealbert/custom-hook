@@ -9,8 +9,7 @@ function App() {
     <div className="App">
       <Beer/>
       <Cookies/>
-      <Currots />
-      
+      <Currots /> 
     </div>
   );
 }

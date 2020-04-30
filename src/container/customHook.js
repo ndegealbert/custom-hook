@@ -1,4 +1,4 @@
-import React,{useState,useEffect}  from 'react'
+import {useState,useEffect}  from 'react'
 
 //A custom Hook is a JavaScript function whose name 
 //starts with ”use” and that may call other Hook
@@ -7,6 +7,7 @@ const  useConter =(props)=>{
     useEffect(()=>{
         //run  when count changes state
         //used to perfon sideeffect
+        document.title=count
        console.log('change')
     }   
     ,[count])
