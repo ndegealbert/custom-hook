@@ -1,5 +1,5 @@
-This project illustrate how to  create a custom React Hook, 
-A Counter is created  which  is then reused in  all  other components
+## This project illustrate how to  create a custom React Hook, 
+## A Counter is created  which  is then reused in  all  other components
 
 
 ## Available Scripts
